@@ -1,5 +1,13 @@
 # Terraindx11
 
+Latest state:
+![image](https://github.com/user-attachments/assets/5cdce57e-bbea-47e3-a6b4-01d9fa4906fa)
+
+
+
+
+
+Previous state:
 Loading moradon, with shaders, world matrix, camera controll implemented.
 
 ![image](https://github.com/user-attachments/assets/d24b9c9c-cef2-4348-916a-86271f1ec620)
